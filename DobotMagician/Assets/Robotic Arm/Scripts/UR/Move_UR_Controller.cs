@@ -1,8 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using System;
+using UnityEngine.UI; 
 
 public class Move_UR_Controller : MonoBehaviour
 {
